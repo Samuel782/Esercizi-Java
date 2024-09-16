@@ -1,3 +1,5 @@
+//simile alle include del C
+//Importa le librerie
 import java.util.Scanner;
 
 public class mainClass {
