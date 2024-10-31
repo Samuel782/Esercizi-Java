@@ -39,8 +39,8 @@ public class MainClass {
 
         String nome; // La S è maiuscola
 
-        // Attenzione: la striga è a lunghezza variabile!! In java non definiremo mai la
-        // dimensione.
+        // Attenzione: la striga è a lunghezza variabile!! 
+        // In java non definiremo mai la dimensione.
 
         nome = "Ettorino";
         System.out.println(nome);
