@@ -13,6 +13,7 @@ public class Collezione {
         nCapiInseriti = 0;
     }
 
+
     public boolean add(Capo capoDaAggiungere){
         if(nCapiInseriti<maxCapi){
             this.capiCollezione[nCapiInseriti] = capoDaAggiungere;
@@ -72,3 +73,5 @@ public class Collezione {
         return this.nome;
     }
 }
+
+

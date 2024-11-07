@@ -30,4 +30,7 @@ public class Capo {
         return this.modello + " " + this.colore + " di " + this.materiale;
     }
 
+    
+
+
 }

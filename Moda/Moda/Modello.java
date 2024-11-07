@@ -12,7 +12,7 @@ public class Modello {
         this.MQmateriale = MQmateriale;
     }
 
-
+ 
     public double getCosto() {
         return this.costo;
     }
