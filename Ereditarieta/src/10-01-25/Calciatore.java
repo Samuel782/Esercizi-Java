@@ -6,7 +6,7 @@ public class Calciatore extends Sportivo {
         super(energia);
         this.nMaglia = nMaglia;
     }
-
+    
     @Override
     public void play() {
         super.energia -= 2;

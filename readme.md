@@ -1,0 +1,11 @@
+# Copatibilità tra tipi:
+    
+
+
+# polimorfismo
+
+
+```  
+
+
+```
